@@ -1,0 +1,9 @@
+.header a {
+    text-decoration: none;
+    margin: 10px;
+}
+
+.header a:hover {
+    color: darkmagenta;
+    font-weight: 800;
+}
